@@ -25,6 +25,19 @@ Manufacturer-->>Warehouse: Provide product
 Warehouse-->>Retailer: Send the requested product
 ```
 
+**Public vs Private Blockchain**
+![Public vs Private Blockchain](./img/public_vs_hyperledger.png)
+
+---
+
+**Communication channels b/w entities**
+![Communication channels b/w entities](./img/communication_channel_b/../communication_channel_b:w_entities.png)
+
+---
+
+**Projects under Hyperledger Umbrella**
+![Projects under Hyperledger](./img/projects_under_hyperledger.png)
+
 ## Terms & Comparo
 
 | Traditional Blockchain              | Hyperledger                                                                                      |
