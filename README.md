@@ -38,6 +38,8 @@ Warehouse-->>Retailer: Send the requested product
 **Projects under Hyperledger Umbrella**
 ![Projects under Hyperledger](./img/projects_under_hyperledger.png)
 
+Depending on the use case, we can choose the right architecture.
+
 ## Terms & Comparo
 
 | Traditional Blockchain              | Hyperledger                                                                                      |
@@ -82,6 +84,10 @@ Organization is defined in `configtx.yaml` file. Here, the organization is defin
 User certificate is generated using `cryptogen` tool. Here, the organizationId is defined in `mspId` field using which a user is checked for.
 
 ![](img/user_certificate.png)
+
+## Repositories:
+
+- NodeJS client: https://www.npmjs.com/package/fabric-network
 
 ## References
 
